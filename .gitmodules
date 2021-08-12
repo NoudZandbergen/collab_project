@@ -1,0 +1,3 @@
+[submodule "collab_engine"]
+	path = collab_engine
+	url = https://github.com/NoudZandbergen/collab_engine.git
